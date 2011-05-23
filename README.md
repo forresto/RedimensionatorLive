@@ -8,6 +8,9 @@ _The Webcam Slit Scan Dimension Trader_
 
 Made for Computational Photography class at [Media Lab Helsinki](http://mlab.taik.fi/)
 
+<a href="http://flattr.com/thing/284902/RedimensionatorLive" target="_blank">
+<img src="http://api.flattr.com/button/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0" /></a>
+
 Copyleft &copy; 2011 Forrest Oliphant, [Sembiki Interactive](http://sembiki.com/)
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
